@@ -93,12 +93,12 @@ body {
     }
     
     #testimonial-5 {
-        flex-basis: 25%;
+        flex-basis: 20%;
     }
 
     #main-left {
         flex-direction: column;
-        flex-basis: 75%;
+        flex-basis: 80%;
     }
 
     #testimonial-1, #testimonial-4 {
@@ -110,7 +110,7 @@ body {
     }  
 
     #testimonial-grid-container {
-        max-width: 900px;
+        max-width: 1440px;
         margin: 0 auto;
     }
 
